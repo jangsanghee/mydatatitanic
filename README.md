@@ -1,5 +1,6 @@
 ## 데이터 알아가기 첫걸음
-
+ 웹페이지 : https://jangsanghee.github.io/mydatatitanic/
+ 
 ### 타이타닉 생존자 데이터 분석
   * 캐글의 타이타닉 생존자를 머신러닝을 이용하여 분석해 본다.
   * 데이터 출처 :https://www.kaggle.com/c/titanic
